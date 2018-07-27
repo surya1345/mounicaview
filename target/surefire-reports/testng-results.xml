@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="127615" started-at="2018-07-27T11:16:16Z" finished-at="2018-07-27T11:18:24Z">
+    <groups>
+    </groups>
+    <test name="MyTestSuite" duration-ms="127615" started-at="2018-07-27T11:16:16Z" finished-at="2018-07-27T11:18:24Z">
+      <class name="com.payslipsselenium.mounicaview.View">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="init" is-config="true" duration-ms="23" started-at="2018-07-27T16:46:16Z" finished-at="2018-07-27T16:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="viewemployeedetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewemployeedetails" duration-ms="53254" started-at="2018-07-27T16:46:17Z" finished-at="2018-07-27T16:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewemployeedetails -->
+        <test-method status="PASS" signature="viewemployeebankdetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewemployeebankdetails" duration-ms="23293" started-at="2018-07-27T16:47:10Z" finished-at="2018-07-27T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewemployeebankdetails -->
+        <test-method status="PASS" signature="viewleavesdeatils()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewleavesdeatils" duration-ms="24055" started-at="2018-07-27T16:47:33Z" finished-at="2018-07-27T16:47:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewleavesdeatils -->
+        <test-method status="PASS" signature="viewsalarydetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewsalarydetails" duration-ms="26983" started-at="2018-07-27T16:47:57Z" finished-at="2018-07-27T16:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewsalarydetails -->
+      </class> <!-- com.payslipsselenium.mounicaview.View -->
+    </test> <!-- MyTestSuite -->
+  </suite> <!-- Suite -->
+</testng-results>
