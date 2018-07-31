@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="127615" started-at="2018-07-27T11:16:16Z" finished-at="2018-07-27T11:18:24Z">
+  <suite name="Suite" duration-ms="141626" started-at="2018-07-30T04:21:08Z" finished-at="2018-07-30T04:23:29Z">
     <groups>
     </groups>
-    <test name="MyTestSuite" duration-ms="127615" started-at="2018-07-27T11:16:16Z" finished-at="2018-07-27T11:18:24Z">
+    <test name="MyTestSuite" duration-ms="141626" started-at="2018-07-30T04:21:08Z" finished-at="2018-07-30T04:23:29Z">
       <class name="com.payslipsselenium.mounicaview.View">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="init" is-config="true" duration-ms="23" started-at="2018-07-27T16:46:16Z" finished-at="2018-07-27T16:46:16Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.payslipsselenium.mounicaview.View@35fb3008]" name="init" is-config="true" duration-ms="11" started-at="2018-07-30T09:51:08Z" finished-at="2018-07-30T09:51:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="viewemployeedetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewemployeedetails" duration-ms="53254" started-at="2018-07-27T16:46:17Z" finished-at="2018-07-27T16:47:10Z">
+        <test-method status="PASS" signature="viewemployeedetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@35fb3008]" name="viewemployeedetails" duration-ms="61473" started-at="2018-07-30T09:51:08Z" finished-at="2018-07-30T09:52:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- viewemployeedetails -->
-        <test-method status="PASS" signature="viewemployeebankdetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewemployeebankdetails" duration-ms="23293" started-at="2018-07-27T16:47:10Z" finished-at="2018-07-27T16:47:33Z">
+        <test-method status="PASS" signature="viewemployeebankdetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@35fb3008]" name="viewemployeebankdetails" duration-ms="25842" started-at="2018-07-30T09:52:09Z" finished-at="2018-07-30T09:52:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- viewemployeebankdetails -->
-        <test-method status="PASS" signature="viewleavesdeatils()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewleavesdeatils" duration-ms="24055" started-at="2018-07-27T16:47:33Z" finished-at="2018-07-27T16:47:57Z">
+        <test-method status="PASS" signature="viewleavesdeatils()[pri:0, instance:com.payslipsselenium.mounicaview.View@35fb3008]" name="viewleavesdeatils" duration-ms="28262" started-at="2018-07-30T09:52:35Z" finished-at="2018-07-30T09:53:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- viewleavesdeatils -->
-        <test-method status="PASS" signature="viewsalarydetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@7225790e]" name="viewsalarydetails" duration-ms="26983" started-at="2018-07-27T16:47:57Z" finished-at="2018-07-27T16:48:24Z">
+        <test-method status="PASS" signature="viewsalarydetails()[pri:0, instance:com.payslipsselenium.mounicaview.View@35fb3008]" name="viewsalarydetails" duration-ms="26007" started-at="2018-07-30T09:53:03Z" finished-at="2018-07-30T09:53:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- viewsalarydetails -->
